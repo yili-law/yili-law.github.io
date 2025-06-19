@@ -1,14 +1,13 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yi Li",
+    "label": "Lawer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "liwithyimelody@gmail.com",
+    "url": "https://yili-lawer.github.io",
+    "summary": "I'm a data compliance lawer.",
     "location": {
-      "address": "2712 Broadway St",
+      "address": "",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
@@ -24,177 +23,186 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Chery Automobile",
+      "position": "Data Compliance Counsel",
+      "url": "https://www.cheryinternational.com/",
+      "startDate": "2025-06-12",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": ["Data Compliance", "GDPR"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Icon Chat",
+      "position": "Legal Counsel",
+      "url": "https://iconchat.ai/",
+      "startDate": "2025-01-01",
+      "endDate": "2025-06-01",
+      "summary": "",
+      "highlights": ["Legal and Compliance"]
+    },
+    {
+      "name": "Jia Yuan Law Offices",
+      "position": "Lawyer",
+      "url": "https://www.jiayuan-law.com/en/index.aspx",
+      "startDate": "2022-01-01",
+      "endDate": "2023-08-01",
+      "summary": "",
+      "highlights": ["Private Equity Legal Services", "State-Owned Enterprise (SOE) Legal Services", "Public Company Restructuring"]
+    },
+    {
+      "name": "Jia Yuan Law Offices",
+      "position": "Full-time Intern",
+      "url": "https://www.jiayuan-law.com/en/index.aspx",
+      "startDate": "2021-07-01",
+      "endDate": "2022-01-01",
+      "summary": "",
+      "highlights": ["Outstanding Intern of 2021"]
+    },
+    {
+      "name": "Zhong Lun Law Firm",
+      "position": "Full-time Intern",
+      "url": "https://en.zhonglun.com/",
+      "startDate": "2021-02-01",
+      "endDate": "2021-03-01",
+      "summary": "",
+      "highlights": ["Due Diligence", "Legal Research"]
+    },
+    {
+      "name": "Global Law Office",
+      "position": "Full-time Intern",
+      "url": "https://www.glo.com.cn/en/",
+      "startDate": "2020-07-01",
+      "endDate": "2020-09-01",
+      "summary": "",
+      "highlights": ["Private Equity Investment", "Due Diligence", "Legal Research"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "The University of Göttingen",
+      "location": "Göttingen, Germany",
+      "url": "https://www.uni-goettingen.de",
+      "area": "European and International Intellectual Property and Information Technology Law",
+      "studyType": "Master's degree",
+      "startDate": "2023-10-01",
+      "endDate": "2025-03-01"
+    },
+    {
+      "institution": "Peking University",
+      "location": "Beijing, China",
+      "url": "https://www.pku.edu.cn/",
+      "area": "Commercial Law",
+      "studyType": "Master's degree",
+      "startDate": "2019-09-01",
+      "endDate": "2022-01-01"
+    },
+    {
+      "institution": "East China University of Political Science and Law",
+      "location": "Shanghai, China",
+      "url": "https://www.ecupl.edu.cn/",
+      "area": "Law",
+      "studyType": "Bachelor's degree",
+      "startDate": "2014-09-01",
+      "endDate": "2018-07-01"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Outstanding Intern of 2021",
+      "date": "2021-01-01",
+      "awarder": "Jia Yuan Law Offices",
+      "url": "https://www.jiayuan-law.com/en/index.aspx",
+      "summary": ""
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Certified Information Privacy Professional - Europe (CIPP/E)",
+      "date": "2024-12-01",
+      "issuer": "IAPP",
+      "url": "https://pdf.credential.net/2t4wwk2g_1733738778614.pdf",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Chinese Legal Professional Qualification Certificate",
+      "date": "2018-08-01",
+      "issuer": "Ministry of Justice of the People's Republic of China",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Chinese Law",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Chinese Legal Professional Qualification Certificate"
+      ]
+    },
+    {
+      "name": "General Data Protection Regulation (GDPR)",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Certified Information Privacy Professional - Europe (CIPP/E)"
+      ]
+    },
+    {
+      "name": "Legal Advice",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Lawyer at Jia Yuan Law Offices (Beijing)"
+      ]
+    },
+    {
+      "name": "PE/VC investment law service",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Lawyer at Jia Yuan Law Offices (Beijing)"
+      ]
+    },
+    {
+      "name": "China State-owned enterprise regulations",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Lawyer at Jia Yuan Law Offices (Beijing)"
+      ]
+    },
+    {
+      "name": "China IPO regulations",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Lawyer at Jia Yuan Law Offices (Beijing)"
+      ]
+    },
+    {
+      "name": "Due Diligence",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "5 experiences across Jia Yuan Law Offices (Beijing) and 4 other companies"
       ]
     }
   ],
   "languages": [
     {
+      "language": "Chinese",
+      "fluency": "Native",
+      "icon": ""
+    },
+    {
       "language": "German",
-      "fluency": "Native speaker",
+      "fluency": "Elementary proficiency (CEFR A2)",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Professional working proficiency",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
