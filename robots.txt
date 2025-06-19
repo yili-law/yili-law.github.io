@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yili-law.github.io/sitemap.xml
