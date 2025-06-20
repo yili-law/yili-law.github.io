@@ -7,7 +7,7 @@ subtitle: 李 怡
 profile:
   align: right
   image: yi_profile.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Jiujiang District, Wuhu</p>
     <p>241007 Wuhu, China</p>
@@ -26,17 +26,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Yi Li. I am a lawyer with over two years of experience specializing in commercial law, IP, and IT law. I have provided legal support to law firms in China, particularly in private equity investment, and I received my legal education from prestigious universities in both China and Europe. I recently obtained the CIPP/E (Certified Information Privacy Professional/Europe) certification, demonstrating my knowledge of European data protection laws and privacy regulations.
 
-Some examples of my work and study experiences include:
+Hi, my name is Yi Li. I am currently a data compliance lawyer at [Chery Automobile](https://www.cheryinternational.com/), where I focus on GDPR, data compliance, and regulatory compliance.
 
-- As a lawyer at [Jia Yuan Law Offices](https://www.jiayuan-law.com/en/index.aspx), I participated in 15 due diligence projects, leading 4 of them. I also provided compliance advisory services for state-owned enterprises (SOEs) undergoing reform.
-- During my studies at [University of Göttingen](https://www.uni-goettingen.de/en/), I participated in the AI Act Workshop, where I handled compliance with open-source license issues for an explainable AI tool in the medical field, which sparked my strong interest in open-source licensing.
-- At the Data Economy Law Summer School, I collaborated on a group case study addressing compliance issues related to data-oriented business models. I focused on GDPR compliance, and my contributions were highly recognized by both my tutor and fellow participants, deepening my understanding of GDPR.
+Before joining Chery, I worked as a lawyer in [Jia Yuan Law Offices](https://www.jiayuan-law.com/en/index.aspx) for over two years, where I focused on commercial law, intellectual property (IP), and information technology (IT) law. My work involved providing legal support to law firms in China, particularly in the area of private equity investment. I participated in fifteen due diligence projects, leading four of them. Additionally, I offered compliance advisory services to state-owned enterprises (SOEs) undergoing reform.
 
-I am passionate about navigating legal frameworks related to data protection, artificial intelligence (AI), and emerging technologies. I've developed expertise in European Union laws such as the GDPR, AI Act, and Digital Services Act. I stay attuned to emerging tools like ChatGPT, which enhance my productivity and research skills.
+I received my master's degrees from [Peking University](https://www.pku.edu.cn/) and [the University of Göttingen](https://www.uni-goettingen.de/en/), and my bachelor’s degree from [East China University of Political Science and Law](https://www.ecupl.edu.cn/).
 
-I'm excited about opportunities where I can contribute my legal expertise, especially in the areas of intellectual property, information technology, and commercial law, and I'm particularly interested in expanding into privacy and data protection.
+I am passionate about legal frameworks related to data protection, artificial intelligence (AI), and new technologies. Over time, I have developed particular expertise in key European Union regulations, including the GDPR, the AI Act, and the Digital Services Act.
+
+I am always eager to explore how legal knowledge can be applied to support innovation and responsible technology development. I’m especially interested in continuing to grow in the areas of privacy, data protection, and open-source governance, while contributing to projects that involve intellectual property, IT law, and commercial legal practice.
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
